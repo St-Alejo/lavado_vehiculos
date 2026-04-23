@@ -1,13 +1,12 @@
-package com.Ucc.lavado;
+package com.carwash;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LavadoApplicationTests {
+class CarWashApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
-
+    @Test
+    void contextLoads() {
+    }
 }
